@@ -1,0 +1,33 @@
+body{
+ 
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+ 
+  font-style:normal;
+  text-align: center;
+  background-size: cover;
+  background-color:#1E222B;
+  background-position: center;
+  height: 100vh;
+
+}
+.login-container {
+  margin-top: 30%;
+  max-width: 80%;
+  background: #000000;
+  padding: 80px;
+  box-sizing: border-box;
+  border-radius: 8px;
+  box-shadow: 1px 4px 5px 10px #eee7e7;
+}
+
+div
+{
+  color: rgb(255, 255, 255);
+
+}
+
+email {
+  color: rgb(121, 62, 121);
+}
+
